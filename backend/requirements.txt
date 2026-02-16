@@ -16,7 +16,7 @@ termcolor==2.4.0
 yandex_search==0.3.2
 socid_extractor==0.0.26
 gunicorn==23.0.0
-eventlet==0.37.0
+eventlet==0.40.3
 typing-extensions>=4.0.0
 pydantic>=2.0.0
 tenacity>=8.0.0
